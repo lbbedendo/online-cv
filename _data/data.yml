@@ -126,6 +126,12 @@ skills:
       - name: PostgreSQL
         level: 60%
 
+      - name: Oracle
+        level: 40%
+
+      - name: Elasticsearch
+        level: 40%        
+
       - name: Git
         level: 100%
 
