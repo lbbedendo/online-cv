@@ -35,6 +35,9 @@ sidebar:
       - item: Open Source
         link:
 
+      - item: Fotografia
+        link: 
+
       - item: Corrida/Crossfit
         link:
 
@@ -47,75 +50,56 @@ career-profile:
       e conhecimento de cada membro atuam para entregar resultados de qualidade.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Bacharel, Ciência da Computação
+      university: Centro Universitário Filadélfia - UniFil
+      time: 2010 - 2013
+      details:
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: Técnico em Informática e Eletrônica da Computação
+      university: Serviço Nacional de Aprendizagem Industrial - Senai
+      time: 2009 - 2010
+      details:
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full Stack Developer
+      time: Janeiro de 2019 - Presente
+      company: X-Brain
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Desenvolvimento de sistemas web distribuídos com Spring Boot, Netflix OSS e ReactJS. O projeto consiste em diversos microsserviços
+        utilizando o framework Spring Boot e linguagens Java e Kotlin para o back-end e o framework ReactJS para o front-end. Nesse projeto utilizamos
+        os bancos de dados Oracle, Redis e Elasticsearch para suprir as diferentes demandas de performance e escalabilidade.
 
-          - Bullet point
-          - Bullet point
+          - Utilização de boas práticas como Code Review, TDD e metodologia Scrum
+          - Experiência com Jenkins e Docker
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Analista de Sistemas
+      time: Maio de 2012 - Janeiro de 2019
+      company: Veltec Soluções Tecnológicas S/A
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Desenvolvimento de sistemas desktop para gerenciamento e monitoramento de frotas de veículos, incluindo também sistemas para processamento e
+        visualização de vídeos obtidos de equipamentos de câmeras embarcadas. Sistemas desenvolvidos primariamente com a linguagem Delphi e banco de 
+        dados MS SQL-Server.
 
-          - Bullet point
-          - Bullet point
+          - Processamento e pós-processamento de grandes quantidades de dados de telemetria e geoposicionamento
+          - Monitoramento e alta disponibilidade para aplicações multi-threads com alto processamento de dados
+          - Manutenção de grandes bases de dados em infraestruturas diversas, podendo variar de dezenas de gigabytes para centenas de gigabytes de dados
+          - Integração com sistemas de outras empresas e manutenção de sistemas integradores já existentes, incluindo contato direto com os clientes
+          para alinhamento de requisitos
+          - Elaboração de documentos técnicos para alinhamento com outros departamentos da empresa
+          - Implementação de um servidor de build contínuo com TeamCity para agilizar a interação entre desenvolvimento e homologação
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Desenvolvimento de sistema web para atender a lei que regulamenta a jornada de motorista ("Lei do Caminhoneiro, 13.103/2015")
+
+          - Experiência em desenvolvimento web utilizando uma arquitetura de microsserviços com Spring Boot e Netflix OSS (Spring MVC, Spring Security) e
+          banco de dados PostgreSQL.
+          - Utilização de boas práticas como Code Review, TDD e metodologia Scrum
+
+    - role: Estagiário
+      time: Maio de 2011 - Maio de 2012
+      company: Veltec Soluções Tecnológicas S/A
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Desenvolvimento e manutenção de sistemas desktop para gerenciamento e monitoramento de frotas de veículos. Sistemas desenvolvimentos primariamente
+        com a linguagem Delphi e banco de dados MS SQL-Server e Firebird.
 
 projects:
     title: Projects
@@ -166,26 +150,31 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Conhecimentos técnicos
 
     toolset:
-      - name: Python & Django
+      - name: Delphi
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java, Kotlin & Spring Boot
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Javascript
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: React
+        level: 50%
+
+      - name: Angular
+        level: 30%
+
+      - name: MS SQL-Server
+        level: 80%
+      
+      - name: PostgreSQL
+        level: 60%
+
+      - name: Git
+        level: 100%
+
+footer:
