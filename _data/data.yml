@@ -62,10 +62,16 @@ education:
 
 experiences:
     - role: Full Stack Developer
-      time: Janeiro de 2019 - Presente
+      time: Outubro de 2019 - Presente
+      company: Kroton Educacional
+      details: |
+        Desenvolvimento de um novo sistema para gerenciamento de conteúdo para cursos de Pós-Graduação.
+
+    - role: Full Stack Developer
+      time: Janeiro de 2019 - Setembro de 2019
       company: X-Brain
       details: |
-        Desenvolvimento de sistemas web distribuídos com Spring Boot, Netflix OSS e ReactJS. O projeto consiste em diversos microsserviços
+        Desenvolvimento de sistemas web distribuídos com Spring Boot, Netflix OSS e ReactJS. O projeto consiste em uma arquitetura distribuída em diversos serviços
         utilizando o framework Spring Boot e linguagens Java e Kotlin para o back-end e o framework ReactJS para o front-end. Nesse projeto utilizamos
         os bancos de dados Oracle, Redis e Elasticsearch para suprir as diferentes demandas de performance e escalabilidade.
 
