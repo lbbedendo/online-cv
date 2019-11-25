@@ -38,9 +38,6 @@ sidebar:
       - item: Fotografia
         link: 
 
-      - item: Corrida/Crossfit
-        link:
-
 career-profile:
     title: Resumo
     summary: |
@@ -65,7 +62,9 @@ experiences:
       time: Outubro de 2019 - Presente
       company: Kroton Educacional
       details: |
-        Desenvolvimento de um novo sistema para gerenciamento de conteúdo para cursos de Pós-Graduação.
+        Desenvolvimento de um novo sistema para gerenciamento de conteúdo para cursos de Pós-Graduação, visando alta escalabilidade e disponibilidade. O projeto
+        consiste em evoluir um sistema monolítico já implantado internamente para uma arquitetura distribuída que possa lidar com um volume maior de tráfego 
+        decorrente de um crescimento no número de usuários.
 
     - role: Full Stack Developer
       time: Janeiro de 2019 - Setembro de 2019
